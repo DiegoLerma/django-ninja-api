@@ -7,7 +7,7 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("<h1>Bienvenido a la página de gestión de usuarios</h1>")
+    return HttpResponse("<h1>Bienvenido a la página de gestión de usuarios de Diego Lerma. Reto 1 completado</h1>")
 
 
 def cargar_csv(request):
