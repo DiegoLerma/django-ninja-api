@@ -1,12 +1,13 @@
-# ![Logo Lite Thinking](https://lms.litethinking.com/assets/LMSLOGO-b18547ba.svg)
 # Django Ninja API - Reto 1
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) 
+![Logo Lite Thinking](https://lms.litethinking.com/assets/LMSLOGO-b18547ba.svg)
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-5.x-darkgreen.svg)](https://www.djangoproject.com/)
 [![Django-Ninja](https://img.shields.io/badge/Django--Ninja-blueviolet.svg)](https://django-ninja.rest-framework.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Este repositorio contiene el proyecto para el **Reto 1: Microservicios con Django y API REST usando Django-Ninja**. La aplicación permite la gestión de usuarios a través de un CRUD y carga masiva mediante un archivo CSV.
+Este repositorio contiene el proyecto para el **Reto 1: Microservicios con Django y API REST usando Django-Ninja** del **Master en Desarrollo de Microservicios con Python 🐍** en [LiteThinking](https://www.litethinking.com/es/home). La aplicación permite la gestión de usuarios a través de un CRUD y carga masiva mediante un archivo CSV.
 
 ## 📄 **Descripción**
 
